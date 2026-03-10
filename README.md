@@ -1,2 +1,2 @@
-git과githube사용법
+GIT과GITHUBE사용법
 =================
