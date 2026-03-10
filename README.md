@@ -1,2 +1,2 @@
-GIT과GITHUBE사용법
+Git 과 Github사용법
 =================
