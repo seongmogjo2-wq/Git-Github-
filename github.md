@@ -5,4 +5,4 @@
   * 사용자 설정: 터미널에서 이름과 이메일 설정
     + (이름 설정)git config --global user.name "Your Name"
      +  (이메일 설정)git config --global user.email "your_email@example.com"
-       *
+2. 저장소 생성 및 연 
