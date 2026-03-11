@@ -12,6 +12,6 @@
   + (원격 저장소와 연결) git remote add origin <저장소 URL>
   + (기존 저장소 가져올때) git clone <저장소 URL>
 3. 코드 올리기
-* 변경 사항 추가:(모든 파일 추가) git add .
-*  커밋 생성:(변경 내용 기록) git commit -m "커밋 메시지" 
-* 원격 저장소 반영:(로컬의 변경 사항을 GitHub에 업로드) git push -u origin main
+  * 변경 사항 추가:(모든 파일 추가) git add .
+  *  커밋 생성:(변경 내용 기록) git commit -m "커밋 메시지" 
+  * 원격 저장소 반영:(로컬의 변경 사항을 GitHub에 업로드) git push -u origin main
