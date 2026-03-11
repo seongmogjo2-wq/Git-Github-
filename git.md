@@ -9,5 +9,7 @@
 3. 파일 관리
 * (변경된 파일 확인) git status
 * (파일 추가) git add 파일이름
-  + (모든 파일 추가) git add
-*
+  + (모든 파일 추가) git add .
+* (변경기록 저장) git commit -m "변경 내용"
+* (원격 저장소 연결) git remote add origin 저장소주소
+  + (원격 저장소 확인) 
