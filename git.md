@@ -12,4 +12,6 @@
   + (모든 파일 추가) git add .
 * (변경기록 저장) git commit -m "변경 내용"
 * (원격 저장소 연결) git remote add origin 저장소주소
-  + (원격 저장소 확인) 
+  + (원격 저장소 확인) git remote -v
+* (코드 업로드) git push origin main(원격 저장소로)
+* (코드 가져오기) git pull(원격 저장소에서)
