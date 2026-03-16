@@ -15,7 +15,6 @@
   + (로컬 저장소 초기화)
 ```md
     git init
-```md
   + (저장소 연결) git remote add origin <저장소 URL>
 git clone <저장소 URL>
 3. 코드 올리기
