@@ -14,7 +14,8 @@
 * 로컬 프로젝트 연결: 로컬 폴더에서 터미널을 열고 아래 명령어 실행
   + (로컬 저장소 초기화)
 ```md
-git init
+    git init
+```md
   + (저장소 연결) git remote add origin <저장소 URL>
 git clone <저장소 URL>
 3. 코드 올리기
