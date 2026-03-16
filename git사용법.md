@@ -39,7 +39,10 @@ git commit -m "변경 내용"
 ```md
 git remote add origin 저장소주소
 ```
-  + (원격 저장소 확인) git remote -v
+  + (원격 저장소 확인)
+```md
+git remote -v
+```
 * (코드 업로드)
 ```md
 git push origin main (원격 저장소로)
