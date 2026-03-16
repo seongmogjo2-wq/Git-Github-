@@ -21,19 +21,21 @@
 + (저장소 연결)
 ```md
  git remote add origin <저장소 URL>
+```
++(저장소 복제)
 ```md
 git clone <저장소 URL>
 ```
 3. 코드 올리기
-    +(커밋 대기 상태로)
+  +(커밋 대기 상태로)
 ```md
    git add .
 ```
-    + (영구 저장) 
+  + (영구 저장) 
 ```md
     git commit -m "커밋 메시지" 
 ```
-    + (원격으로 저장소에 올리기) 
+  + (원격으로 저장소에 올리기) 
 ```md
     git push -u origin main
 ```
