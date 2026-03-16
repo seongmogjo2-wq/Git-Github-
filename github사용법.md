@@ -19,8 +19,6 @@
     +2
 git clone <저장소 URL>
 3. 코드 올리기
-git add .
-    +4
-git commit -m "커밋 메시지" 
-    +5
-git push -u origin main
+  +(커밋 대기 상태로) git add .
+  + (영구 저장) git commit -m "커밋 메시지" 
+  + (원격으로 저장소에 올리기) git push -u origin main
