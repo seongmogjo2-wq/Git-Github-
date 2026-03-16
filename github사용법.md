@@ -31,11 +31,11 @@
   ```md
   git add .
   ```
-    + (영구 저장) 
+   + (영구 저장) 
   ```md
   git commit -m "커밋 메시지" 
   ```
-    + (원격으로 저장소에 올리기) 
+   + (원격으로 저장소에 올리기) 
   ```md
   git push -u origin main
   ```
