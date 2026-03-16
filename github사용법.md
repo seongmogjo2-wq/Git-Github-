@@ -5,22 +5,22 @@
 * 사용자 설정: 터미널에서 이름과 이메일 설정
   + (이름 설정)
     ```md
-    git config --global user.name "이름"
+git config --global user.name "이름"
     ```
   + (이메일 설정)
   ```md
-  git config --global user.email "이메일"
+git config --global user.email "이메일"
   ```
 2. 로컬 저장소 생성 및 연결
 * 저장소 생성: GitHub 웹사이트에서 'New' 버튼을 눌러 생성.(이름,비공개,공개 여부 설정)
 * 로컬 프로젝트 연결: 로컬 폴더에서 터미널을 열고 아래 명령어 실행
   + (로컬 저장소 초기화)
   ```md
-    git init
+git init
   ```
   + (저장소 연결)
 ```md
- git remote add origin <저장소 URL>
+git remote add origin <저장소 URL>
 ```
   + (저장소 복제)
 ```md
@@ -29,13 +29,13 @@ git clone <저장소 URL>
 3. 코드 올리기
   + (커밋 대기 상태로)
 ```md
-   git add .
+git add .
 ```
   + (영구 저장) 
 ```md
-    git commit -m "커밋 메시지" 
+git commit -m "커밋 메시지" 
 ```
   + (원격으로 저장소에 올리기) 
 ```md
-    git push -u origin main
+git push -u origin main
 ```
