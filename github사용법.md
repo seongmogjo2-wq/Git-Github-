@@ -18,11 +18,11 @@
   ```md
     git init
   ```
-+ (저장소 연결)
+  + (저장소 연결)
 ```md
  git remote add origin <저장소 URL>
 ```
-+(저장소 복제)
+  + (저장소 복제)
 ```md
 git clone <저장소 URL>
 ```
