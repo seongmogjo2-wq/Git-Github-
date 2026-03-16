@@ -13,21 +13,14 @@
 * 저장소 생성: GitHub 웹사이트에서 'New' 버튼을 눌러 생성.(이름,비공개,공개 여부 설정)
 * 로컬 프로젝트 연결: 로컬 폴더에서 터미널을 열고 아래 명령어 실행
   + (로컬 저장소 초기화)
-  ```md
   git init
     +1
-```md
   git remote add origin <저장소 URL>
     +2
-```md
 git clone <저장소 URL>
 3. 코드 올리기
-    +3
-```md
 git add .
     +4
-```md
 git commit -m "커밋 메시지" 
     +5
-```md
 git push -u origin main
