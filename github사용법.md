@@ -15,14 +15,19 @@
   + (로컬 저장소 초기화)
   ```md
   git init
+    +1
 ```md
   git remote add origin <저장소 URL>
+    +2
 ```md
 git clone <저장소 URL>
 3. 코드 올리기
+    +3
 ```md
 git add .
+    +4
 ```md
 git commit -m "커밋 메시지" 
+    +5
 ```md
 git push -u origin main
